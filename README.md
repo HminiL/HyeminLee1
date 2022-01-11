@@ -13,6 +13,7 @@
 > ✔️ High level of understanding.
 
 >  📝
+>  
 >  The latest project is Jarviis inspired by Jarvis from the movie Iron Man.
 >  
 >  It's an ai scheduler that functions as an automatic scheduling and diary.
