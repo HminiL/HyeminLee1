@@ -23,7 +23,7 @@
 <h2> TECH STACK </h2>
 
 ### Framework
-> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/> <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">   <img src="https://img.shields.io/badge/reduxsaga-61DAFB?style=for-the-badge&logo=reduxsaga&logoColor=black">  <img src="https://img.shields.io/badge/redux-61DAFB?style=for-the-badge&logo=redux&logoColor=black"> 
+> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/> <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">   <img src="https://img.shields.io/badge/reduxsaga-ffffff?style=flat&logo=reduxsaga&logoColor=gray">  <img src="https://img.shields.io/badge/redux-ffffff?style=flat&logo=redux&logoColor=purple"> 
 ### Programming Language
 > <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/> 
 
