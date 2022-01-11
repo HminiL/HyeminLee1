@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=d7a45d&height=160&section=header&text=Hi!%20I'm%20Hyemin&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 # Backend / AI / ML Engineer Hyemin Lee 
-> hello my name is ~~~
-> hello
+>  interested in back-and-server development and machine learning.
+>  The latest project is Jarviis inspired by Jarvis from the movie Iron Man.
+>  It's an ai scheduler that functions as an automatic scheduling and diary.
+>  <img src="https://img.shields.io/badge/logo=update&logoColor=white"/> Keep up with the latest technologies.
 
 <h2> TECH STACK </h2>
 
@@ -10,7 +12,7 @@
 > 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/> <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
 ### Programming Language
-> test
+> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 
 ### DataBase
 > test db
