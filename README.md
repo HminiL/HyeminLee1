@@ -1,5 +1,7 @@
 <h1 align=center>
- :반짝임: Python Developer Yujihyeee :반짝임:
+Backend / AI / ML Engineer Hyemin Lee
+![image](https://user-images.githubusercontent.com/86825735/148888448-c532eb35-8e90-4c35-93f5-3d1bd5c812d5.png)
+
 </h1>
 <br/>
 ## :장미: t e c h :장미:
@@ -10,5 +12,5 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 | 개발 툴        | <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=yellow"/>
 <br>
-![Yujihyeee's github stats](https://github-readme-stats.vercel.app/api?username=Yujihyeee&show_icons=true)
+![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=Yujihyeee&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Yujihyeee)
