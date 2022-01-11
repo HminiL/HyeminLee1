@@ -12,8 +12,7 @@
 | tool         | <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=yellow"/>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminLee1&layout=compact&theme=buefy)
-![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee1&show_icons=true&theme=buefy )
-[![trophy](https://github-profile-trophy.vercel.app/?username=HyeminLee1&theme=nord)](https://github.com/HyeminLee1/github-profile-trophy)
 
 
  [![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee)](https://github.com/HyeminLee1/github-readme-stats)
+ [![Hyemin's trophy](https://github-profile-trophy.vercel.app/?username=Hyemin&theme=nord)](https://github.com/HyeminLee1/github-profile-trophy)
