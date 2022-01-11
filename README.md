@@ -4,7 +4,22 @@
 > hello my name is ~~~
 > hello
 
-### STACK 
+<h2> TECH STACK </h2>
+### Framework
+> TEST
+
+### Programming Language
+> test
+
+### DataBase
+> test db
+
+### Cloud
+> test cloud
+
+### IDE
+> test ide
+
 > <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Flask&logoColor=orange"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 >
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
