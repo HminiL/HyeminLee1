@@ -8,10 +8,7 @@
 
 ### Framework
 > 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/>
-  <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/> <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
 ### Programming Language
 > test
 
