@@ -1,7 +1,7 @@
 
-<h1> Backend / AI / ML Engineer Hyemin Lee < / h2>
+<h1> Backend / AI / ML Engineer Hyemin Lee </h1>
 
- <h2> t e c h </h2> 
+<h2> t e c h </h2> 
 <br/>
 | Framework    | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/>
 | Languages    | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
