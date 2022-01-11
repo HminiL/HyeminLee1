@@ -1,21 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=d7a45d&height=160&section=header&text=Hi!%20I'm%20Hyemin&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 # Backend / AI / ML Engineer Hyemin Lee 
-> 🥰 Interested in back-and-server development and machine learning.
->  
-> 🔃 Keep up with the latest technologies.
+> 🥰 Interested in back-and-server development and machine learning.&nbsp
+> 🔃 Keep up with the latest technologies.&nbsp&nbsp
 
 
-> ✔️ Flexibility to accept new technologies.
-> 
-> ✔️ Fast learning skills.
-> 
-> ✔️ High level of understanding.
+> ✔️ Flexibility to accept new technologies.&nbsp
+> ✔️ Fast learning skills.&nbsp
+> ✔️ High level of understanding.&nbsp&nbsp
 
->  📝
->  
->  The latest project is Jarviis inspired by Jarvis from the movie Iron Man.
->  
+>  📝&nbsp
+>  The latest project is Jarviis inspired by Jarvis from the movie Iron Man.&nbsp
 >  It's an ai scheduler that functions as an automatic scheduling and diary.
 
 
@@ -26,7 +21,8 @@
 > 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/> <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
 ### Programming Language
-> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
+
 
 ### DataBase
 > test db
