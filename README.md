@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=d7a45d&height=160&section=header&text=Hi!%20I'm%20Hyemin&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 # Backend / AI / ML Engineer Hyemin Lee 
->  interested in back-and-server development and machine learning.
+>  Interested in back-and-server development and machine learning.
 >  
+>  Keep up with the latest technologies.
+
 >  The latest project is Jarviis inspired by Jarvis from the movie Iron Man.
 >  
 >  It's an ai scheduler that functions as an automatic scheduling and diary.
->  
->  Keep up with the latest technologies.
 
 
 
