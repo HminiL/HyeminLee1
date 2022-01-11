@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=d7a45d&height=160&section=header&textBackend%20/AI/MLEngineerHyeminLee&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d7a45d&height=160&section=header&text=Backend%20/AI/MLEngineerHyeminLee&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 # Backend / AI / ML Engineer Hyemin Lee 
 > hello my name is ~~~
