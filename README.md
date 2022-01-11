@@ -1,5 +1,5 @@
-<h1 align=center>
-Backend / AI / ML Engineer Hyemin Lee
+
+# Backend / AI / ML Engineer Hyemin Lee
 
 </h1>
 ## t e c h 
@@ -14,3 +14,6 @@ Backend / AI / ML Engineer Hyemin Lee
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminLee1&layout=compact&theme=buefy)
 ![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee1&show_icons=true&theme=buefy )
 [![trophy](https://github-profile-trophy.vercel.app/?username=HyeminLee1&theme=nord)](https://github.com/HyeminLee1/github-profile-trophy)
+
+
+ [![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee)](https://github.com/HyeminLee1/github-readme-stats)
