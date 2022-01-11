@@ -5,7 +5,7 @@
 > hello
 
 ### STACK 
-> Framework <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/>
+> Framework <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Flask&logoColor=orange"/>
 > Languages <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 > DB           <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 > environments <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -16,4 +16,3 @@
  [![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee&theme=buefy)](https://github.com/HyeminLee1/github-readme-stats)
  [![Hyemin's trophy](https://github-profile-trophy.vercel.app/?username=Hyemin&theme=nord)](https://github.com/HyeminLee1/github-profile-trophy)
  
- ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=160&section=footer)
