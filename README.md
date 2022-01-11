@@ -30,18 +30,13 @@
 
 
 ### DataBase
-> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 
 ### Cloud & ETC
-> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-339AF0?style=flat&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
+> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/docker-339AF0?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 
 ### IDE
-> test ide <img src="https://img.shields.io/badge/pycharm-232F3E?style=flat&logo=pycharm&logoColor=white">
+> <img src="https://img.shields.io/badge/pycharm-232F3E?style=flat&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/vscode-7952B3?style=flat&logo=vscode&logoColor=white">
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminLee1&layout=compact&theme=buefy)](https://github.com/HyeminLee1/github-top-langs)
