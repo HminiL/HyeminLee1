@@ -11,9 +11,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 | tool         | <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=yellow"/>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminLee1&layout=compact&theme=buefy)
 
-
- [![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee)](https://github.com/HyeminLee1/github-readme-stats)
- [![Hyemin's trophy](https://github-profile-trophy.vercel.app/?username=Hyemin&theme=nord)](https://github.com/HyeminLee1/github-profile-trophy)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminLee1&layout=compact&theme=buefy)](https://github.com/HyeminLee1/github-top-langs)
+ [![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee&theme=buefy)](https://github.com/HyeminLee1/github-readme-stats)
+ [![Hyemin's trophy](https://github-profile-trophy.vercel.app/?username=Hyemin&theme=nord)](https://github.com/HyeminLee1/github-profile-trophy)
