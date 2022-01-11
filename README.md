@@ -25,7 +25,7 @@
 ### Framework
 > <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/> <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">   <img src="https://img.shields.io/badge/react-ffffff?style=flat&logo=react">   <img src="https://img.shields.io/badge/reduxsaga-ffffff?style=flat&logo=reduxsaga">  <img src="https://img.shields.io/badge/redux-ffffff?style=flat&logo=redux&logoColor=purple"> 
 ### Programming Language
-> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/> 
+> <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-0769AD?style=flat&logo=typescript&logoColor=white"/> 
 
 
 ### DataBase
