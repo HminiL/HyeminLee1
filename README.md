@@ -1,7 +1,6 @@
 
 # Backend / AI / ML Engineer Hyemin Lee
 
-</h1>
 ## t e c h 
 <br/>
 | Framework    | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=orange"/>
