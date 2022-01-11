@@ -2,9 +2,14 @@
 
 # Backend / AI / ML Engineer Hyemin Lee 
 >  interested in back-and-server development and machine learning.
+>  
 >  The latest project is Jarviis inspired by Jarvis from the movie Iron Man.
+  
 >  It's an ai scheduler that functions as an automatic scheduling and diary.
->  <img src="https://img.shields.io/badge/logo=update&logoColor=white"/> Keep up with the latest technologies.
+  
+>  Keep up with the latest technologies.
+
+
 
 <h2> TECH STACK </h2>
 
