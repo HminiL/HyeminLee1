@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=d2e1ff&height=160&section=header&footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d7a45d&height=160&section=header&footer)
 
 # Backend / AI / ML Engineer Hyemin Lee 
 > hello my name is ~~~
