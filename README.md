@@ -15,3 +15,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminLee1&layout=compact&theme=buefy)](https://github.com/HyeminLee1/github-top-langs)
  [![Hyemin's github stats](https://github-readme-stats.vercel.app/api?username=HyeminLee&theme=buefy)](https://github.com/HyeminLee1/github-readme-stats)
  [![Hyemin's trophy](https://github-profile-trophy.vercel.app/?username=Hyemin&theme=nord)](https://github.com/HyeminLee1/github-profile-trophy)
+ 
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=160&section=footer)
