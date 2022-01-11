@@ -5,8 +5,11 @@
 >  
 > 🔃 Keep up with the latest technologies.
 
+
 > ✔️ Flexibility to accept new technologies.
+> 
 > ✔️ Fast learning skills.
+> 
 > ✔️ High level of understanding.
 
 >  📝
