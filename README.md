@@ -16,7 +16,7 @@
 
 ### TECH STACK
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logflatoColor=orange"/> <img src="https://img.shields.io/badge/flask-000000?style=&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src=https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/docker-339AF0?style=flat&logo=docker&logoColor=white"> 
 
 
